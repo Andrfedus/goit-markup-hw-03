@@ -299,6 +299,7 @@ img{
 
 .logo-address{
     display: inline-block;
+    margin-bottom: 20px;
    
     
 }
@@ -307,9 +308,6 @@ img{
 
 }
 
-.nav-address{
-    margin-top: 20px;
-}
 .maps{
     display: inline-block;
 
@@ -352,7 +350,7 @@ img{
 .container-filter{
     display: flex;
 
-    margin-bottom: 34px;
+    margin-bottom: 50px;
 }
 .filter-btn{
     margin-right: 8px;
@@ -372,7 +370,7 @@ img{
     padding-bottom: 6px;
     
     border: 1px solid transparent;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+   
     background-color: #F5F4FA;
     color: var(--primary-text-color);
 }
@@ -414,6 +412,10 @@ img{
   }
 .container-text{
     border: 1px solid #EEEEEE;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 .works-title{
@@ -421,7 +423,6 @@ img{
     line-height: 2;
     letter-spacing: 0.06em;
     
-    margin-top: 20px;
     color: var(--primary-text-color);
 
 }
@@ -429,5 +430,5 @@ img{
     color: var(--title-text-color);
     line-height: 1.87;
     margin-top: 4px;
-    margin-bottom: 20px;
+    
 }
